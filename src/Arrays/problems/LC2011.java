@@ -10,6 +10,11 @@ public class LC2011 {
             if(i.contains("--")){
                x-=1;
             }
+//            if(i.charAt(1)==('+')){
+//                x++;
+//            }else{
+//                x--;
+//            }
         }
         return x ;
     }
