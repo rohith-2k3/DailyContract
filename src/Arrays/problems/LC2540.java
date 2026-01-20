@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.problems;
 
 public class LC2540 {
     public static int getCommon(int[] nums1, int[] nums2) {
