@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.problems;
 
 public class LC74 {
     public static boolean searchMatrix(int[][] matrix, int target) {
